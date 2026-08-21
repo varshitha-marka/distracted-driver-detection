@@ -1,0 +1,13 @@
+# Ignore data folders and images
+data/
+*.jpg
+*.jpeg
+*.png
+
+# Ignore model weights
+*.h5
+*.pt
+
+# Ignore Python cache
+__pycache__/
+.ipynb_checkpoints/
